@@ -1,0 +1,32 @@
+<vector android:height="32dp" android:viewportHeight="90"
+    android:viewportWidth="90" android:width="32dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- тело -->
+    <path
+        android:fillAlpha="0.8"
+        android:fillColor="#00000000"
+        android:pathData="M46.043,48.043m-20.043,0a20.043,20.043 0,1 1,40.086 0a29.043,20.043 0,1 1,-40.086 0"
+        android:strokeAlpha="1"
+        android:strokeColor="#000000"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="bevel"
+        android:strokeWidth="4"/>
+
+
+    <!-- точка раз -->
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M43,43m-2,0a2,2 0,1 0,4 0a2,2 0,1 0,-4 0"/>
+
+    <!-- точка два -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M49,43m-2,0a2,2 0,1 0,4 0a2,2 0,1 0,-4 0"/>
+    <!--
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,25 h50 a10,5 0 0 1 0,10 h-50 a10,5 0 0 1 0,-10 z"
+       />
+        -->
+
+</vector>
